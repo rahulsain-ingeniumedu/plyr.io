@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/plyr.io/static/css/main.359781b0.css",
+    "main.js": "/plyr.io/static/js/main.d9e8dabb.js",
+    "index.html": "/plyr.io/index.html",
+    "main.359781b0.css.map": "/plyr.io/static/css/main.359781b0.css.map",
+    "main.d9e8dabb.js.map": "/plyr.io/static/js/main.d9e8dabb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.359781b0.css",
+    "static/js/main.d9e8dabb.js"
+  ]
+}
